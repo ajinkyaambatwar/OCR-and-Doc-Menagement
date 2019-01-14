@@ -1,4 +1,5 @@
-### OCR ### stands for OPTICAL CHARACTER RECOGNITION is a vey handy machine learning application for detection and identification of texts from images.
+### OCR ### 
+stands for OPTICAL CHARACTER RECOGNITION is a vey handy machine learning application for detection and identification of texts from images.
 
 Using OCR, we have created an application to process the data from various kinds of documents involved in onboarding of new customer in an international bank. 
 
